@@ -1,5 +1,5 @@
 using System.Security.Cryptography.X509Certificates;
-using SQLiteDemoAssignment.Assignment.MVVM.ViewModels;
+using SQLiteDemoAssignment.MVVM.ViewModels;
 
 namespace SQLiteDemoAssignment;
 

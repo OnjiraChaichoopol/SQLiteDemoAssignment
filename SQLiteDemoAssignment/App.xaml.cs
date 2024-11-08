@@ -8,7 +8,8 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new AppShell();
+		//MainPage = new AppShell();
+		MainPage = new Assignment12();
 		
 	}
 }
